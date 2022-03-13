@@ -1,0 +1,2 @@
+# DiceGame
+This project is made with HTML, CSS, and JavaScript using DOM Manipulation. The goal of this two player game is to roll and hold what you gain and be the first one to reach 50 points. The catch is if you roll a one, your turn is over and your current score goes back to 0. When you hold your current points it saves to your player score and won't lose them points. Don't forget to hold whatever points you accumulate often. If there is any bugs and something is not working right please contact me on Twitter: @xAlexJesus
